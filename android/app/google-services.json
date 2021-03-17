@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34090152538",
+    "project_id": "bitirmeprojesi-4062e",
+    "storage_bucket": "bitirmeprojesi-4062e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34090152538:android:7b26e5504c9f55733a1e63",
+        "android_client_info": {
+          "package_name": "com.tolgas.bitirme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34090152538-9sof00os8i20gr3on6grtve38qvdilnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpaCiOW4tuPHUyRMs4xsFeXnJ--ur09rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34090152538-9sof00os8i20gr3on6grtve38qvdilnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
